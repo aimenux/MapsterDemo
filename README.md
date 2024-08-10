@@ -15,4 +15,4 @@ In this repo, i m using [mapster](https://github.com/MapsterMapper/Mapster) for 
 > - `Example03` is using code generation way
 >
 
-**`Tools`** : net 7.0, mapster, xunit, fluent-assertions, auto-fixture
+**`Tools`** : net 8.0, mapster, xunit, fluent-assertions, auto-fixture
